@@ -1,5 +1,5 @@
 # bia
-trabalho de pensamento computacional
+O SURPREENDENTE MUNDO DO POLVO
 Nos recantos profundos e misteriosos dos oceanos, um ser fascinante e enigmático dança entre as ondas - o polvo. Pertencente à classe Cephalopoda, que inclui lulas e lulas gigantes, o polvo é uma criatura notável conhecida por sua inteligência excepcional e habilidades camaleônicas.
 
 Os polvos são moluscos marinhos que habitam uma variedade de ambientes, desde recifes de coral até as profundezas abissais. Com corpos gelatinosos e tentáculos flexíveis, eles deslizam graciosamente pela água, explorando seu habitat com curiosidade aguçada.
